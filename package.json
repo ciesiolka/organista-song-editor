@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "sass": "^1.63.3",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "@coreui/coreui": "^4.2.6",
+    "@popperjs/core": "^2.11.8"
+  },
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
